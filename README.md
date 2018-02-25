@@ -63,11 +63,13 @@ point) which are as follows:
 
 • FB Stock: We model the FB stock listed from 2012 to 2016 where training data is from 2012
 to 2014 and testing data is from 2015 to 2016.
+
 With λ = 5:
 Profit=11.989989
 Accuracy= 0.545454545455
 Precison = 0.545454545455
 Recall= 0.592592592593
+
 With λ = 3:
 Profit= 13.31999
 Accuracy= 0.545454545455
