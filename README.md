@@ -60,6 +60,7 @@ considers all the parameter combinations and takes the best one).
 # E. Results: 
 We tested on two stocks (with the models and the optimizations mentioned in the above
 point) which are as follows:
+
 • FB Stock: We model the FB stock listed from 2012 to 2016 where training data is from 2012
 to 2014 and testing data is from 2015 to 2016.
 With λ = 5:
