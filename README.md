@@ -2,8 +2,7 @@
 
 Today using algorithms for trading decisions has become a prevalent practice in major stock
 exchanges in the world. The proposed idea was of automated stock trading using machine learning
-algorithms. It was to take past stock data, learn models from them and predict future stock prices
-using machine learning algorithms for most profit.
+algorithms. It was to take past stock data, learn models from them and decide whether to buy stock or not using machine learning algorithms for most profit.
 
 # Work Done:
 
