@@ -1,7 +1,4 @@
 #Project: Automated Stock Trading using Machine Learning Algorithms
-#Team : Arpit Singh, Naveen Sagar, Tapish Raniwal, Pintu Lal Meena
-
-
 #importing libraries
 
 import csv
